@@ -1,0 +1,13 @@
+SeedFile /home/beams12/S1IDUSER/mnt/s1b/xiaoxu/ff_generate/random_orien_num10000000_with_ran_position.csv
+percent 0.1
+SeedFolder /home/beams12/S1IDUSER/mnt/s1b/xiaoxu/ff_generate
+Iteration 2
+a 3.593500
+b 3.593500
+c 3.593500
+alpha 90
+beta 90
+gamma 90
+radius 100
+height 50
+SeedParam ps_lshr_example.txt
